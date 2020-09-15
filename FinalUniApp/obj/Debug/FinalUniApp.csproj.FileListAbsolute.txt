@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\FinalUniApp\FinalUniApp\bin\Debug\FinalUniApp.exe.config
+C:\Users\User\Desktop\FinalUniApp\FinalUniApp\bin\Debug\FinalUniApp.exe
+C:\Users\User\Desktop\FinalUniApp\FinalUniApp\bin\Debug\FinalUniApp.pdb
+C:\Users\User\Desktop\FinalUniApp\FinalUniApp\obj\Debug\FinalUniApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\FinalUniApp\FinalUniApp\obj\Debug\FinalUniApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalUniApp\FinalUniApp\obj\Debug\FinalUniApp.exe
+C:\Users\User\Desktop\FinalUniApp\FinalUniApp\obj\Debug\FinalUniApp.pdb
